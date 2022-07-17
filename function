@@ -1,0 +1,3 @@
+def function()
+     n=123
+     print(function (n))
